@@ -13,10 +13,10 @@ sites:
     url: https://drive.cyp0633.icu
   - name: Vaultwarden
     url: https://warden.cyp0633.icu
-  - name: FRP
-    url: https://code.cyp0633.icu/frp/static/#/
-    expectedStatusCodes:
-    - 401
+  - name: Rainloop
+    url: https://mail.cyp0633.icu
+  - name: RZYZ admission wiki
+    url: https://wiki.rzyzadmissionhelper.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
