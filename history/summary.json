@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warden.cyp0633.icu.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.50%",
+    "uptimeDay": "73.64%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.50%",
     "time": 435,
     "timeDay": 832,
     "timeWeek": 528,
     "timeMonth": 440,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2022-11-10": 0,
+      "2022-11-10": 380,
       "2022-08-12": 175,
       "2022-08-11": 10,
       "2022-06-23": 33,
@@ -120,9 +120,9 @@
     "url": "https://mail.cyp0633.icu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cyp0633.icu.ico",
     "slug": "rainloop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +131,9 @@
     "timeWeek": 617,
     "timeMonth": 612,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-10": 0
+    }
   },
   {
     "name": "RZYZ admission wiki",
@@ -150,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-10": 160,
+      "2022-11-10": 539,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
