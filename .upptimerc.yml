@@ -5,16 +5,12 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: blog
     url: https://cyp0633.icu
-  - name: GitHub proxy
-    url: https://gh.cyp0633.icu
   - name: Gitea
     url: https://git.cyp0633.icu
   - name: Cloudreve
     url: https://drive.cyp0633.icu
   - name: Vaultwarden
     url: https://warden.cyp0633.icu
-  - name: Rainloop
-    url: https://mail.cyp0633.icu
   - name: RZYZ admission wiki
     url: https://wiki.rzyzadmissionhelper.top
 
