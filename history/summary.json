@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.35%",
-    "time": 1505,
-    "timeDay": 79,
-    "timeWeek": 112,
-    "timeMonth": 919,
-    "timeYear": 1509,
+    "time": 1502,
+    "timeDay": 124,
+    "timeWeek": 124,
+    "timeMonth": 884,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2023-06-12": 39,
       "2023-05-30": 120,
@@ -31,8 +31,7 @@
       "2023-01-07": 748,
       "2022-10-17": 23,
       "2022-09-01": 165,
-      "2022-08-02": 16,
-      "2022-06-26": 54
+      "2022-08-02": 16
     }
   },
   {
@@ -47,16 +46,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 1077,
-    "timeDay": 1260,
-    "timeWeek": 911,
-    "timeMonth": 816,
+    "timeDay": 962,
+    "timeWeek": 955,
+    "timeMonth": 820,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2023-05-03": 18,
       "2023-01-25": 20,
       "2022-09-02": 826,
-      "2022-09-01": 655,
-      "2022-06-26": 53
+      "2022-09-01": 655
     }
   },
   {
@@ -70,14 +68,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 887,
-    "timeDay": 737,
-    "timeWeek": 648,
-    "timeMonth": 853,
-    "timeYear": 894,
+    "time": 886,
+    "timeDay": 715,
+    "timeWeek": 678,
+    "timeMonth": 850,
+    "timeYear": 893,
     "dailyMinutesDown": {
-      "2023-05-03": 18,
-      "2022-06-26": 53
+      "2023-05-03": 18
     }
   },
   {
@@ -92,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 444,
-    "timeDay": 70,
-    "timeWeek": 233,
-    "timeMonth": 216,
-    "timeYear": 462,
+    "timeDay": 89,
+    "timeWeek": 211,
+    "timeMonth": 214,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2023-04-25": 33,
       "2022-11-10": 415,
@@ -109,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "10.10%",
+    "uptime": "10.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "81.55%",
-    "uptimeYear": "10.10%",
-    "time": 1055,
-    "timeDay": 1025,
-    "timeWeek": 955,
-    "timeMonth": 1039,
-    "timeYear": 1055,
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "84.82%",
+    "uptimeYear": "10.35%",
+    "time": 1053,
+    "timeDay": 964,
+    "timeWeek": 945,
+    "timeMonth": 1036,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-06-19": 237,
       "2023-06-18": 572,
