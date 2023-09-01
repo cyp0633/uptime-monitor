@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 1331,
-    "timeDay": 192,
-    "timeWeek": 199,
-    "timeMonth": 185,
-    "timeYear": 1280,
+    "time": 1328,
+    "timeDay": 261,
+    "timeWeek": 207,
+    "timeMonth": 181,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2023-06-12": 39,
       "2023-05-30": 120,
@@ -29,8 +29,7 @@
       "2023-01-25": 21,
       "2023-01-08": 310,
       "2023-01-07": 748,
-      "2022-10-17": 23,
-      "2022-09-01": 165
+      "2022-10-17": 23
     }
   },
   {
@@ -45,17 +44,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 1057,
-    "timeDay": 866,
-    "timeWeek": 846,
-    "timeMonth": 871,
+    "timeDay": 782,
+    "timeWeek": 812,
+    "timeMonth": 880,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2023-07-11": 21,
       "2023-06-27": 18,
       "2023-05-03": 18,
       "2023-01-25": 20,
-      "2022-09-02": 826,
-      "2022-09-01": 655
+      "2022-09-02": 826
     }
   },
   {
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 553,
-    "timeWeek": 737,
-    "timeMonth": 746,
-    "timeYear": 870,
+    "time": 870,
+    "timeDay": 623,
+    "timeWeek": 715,
+    "timeMonth": 743,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2023-06-27": 17,
       "2023-05-03": 18
@@ -91,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 422,
-    "timeDay": 468,
-    "timeWeek": 275,
-    "timeMonth": 254,
-    "timeYear": 424,
+    "timeDay": 272,
+    "timeWeek": 274,
+    "timeMonth": 259,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2023-04-25": 33,
       "2022-11-10": 415
@@ -106,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "24.56%",
+    "uptime": "24.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.02%",
+    "uptimeYear": "28.29%",
     "time": 964,
-    "timeDay": 756,
-    "timeWeek": 811,
-    "timeMonth": 892,
+    "timeDay": 888,
+    "timeWeek": 825,
+    "timeMonth": 889,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2023-06-27": 15,
@@ -382,8 +380,7 @@
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
-      "2022-09-02": 1440,
-      "2022-09-01": 1440
+      "2022-09-02": 1440
     }
   }
 ]
