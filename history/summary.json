@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.38%",
-    "time": 1288,
-    "timeDay": 299,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 1164,
+    "time": 1285,
+    "timeDay": 52,
+    "timeWeek": 205,
+    "timeMonth": 218,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1051,
-    "timeDay": 1024,
-    "timeWeek": 945,
-    "timeMonth": 897,
+    "timeDay": 974,
+    "timeWeek": 987,
+    "timeMonth": 898,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2023-07-11": 21,
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 864,
-    "timeDay": 756,
-    "timeWeek": 784,
-    "timeMonth": 725,
-    "timeYear": 857,
+    "time": 863,
+    "timeDay": 758,
+    "timeWeek": 815,
+    "timeMonth": 727,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2023-06-27": 17,
       "2023-05-03": 18
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 414,
-    "timeDay": 209,
-    "timeWeek": 173,
-    "timeMonth": 222,
-    "timeYear": 394,
+    "timeDay": 127,
+    "timeWeek": 151,
+    "timeMonth": 221,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2023-04-25": 33,
       "2022-11-10": 415
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "29.31%",
+    "uptime": "29.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.69%",
+    "uptimeYear": "35.96%",
     "time": 956,
-    "timeDay": 1001,
-    "timeWeek": 966,
-    "timeMonth": 910,
+    "timeDay": 994,
+    "timeWeek": 1001,
+    "timeMonth": 911,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2023-06-27": 15,
@@ -353,8 +353,7 @@
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   }
 ]
