@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1241,
-    "timeDay": 309,
-    "timeWeek": 224,
-    "timeMonth": 204,
-    "timeYear": 1083,
+    "time": 1239,
+    "timeDay": 182,
+    "timeWeek": 243,
+    "timeMonth": 209,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -45,10 +45,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1043,
-    "timeDay": 963,
-    "timeWeek": 855,
-    "timeMonth": 878,
-    "timeYear": 991,
+    "timeDay": 944,
+    "timeWeek": 854,
+    "timeMonth": 892,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2023-07-11": 21,
       "2023-06-27": 18,
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 856,
-    "timeDay": 738,
-    "timeWeek": 719,
-    "timeMonth": 760,
-    "timeYear": 846,
+    "timeDay": 776,
+    "timeWeek": 726,
+    "timeMonth": 752,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2023-06-27": 17,
       "2023-05-03": 18
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 405,
-    "timeDay": 93,
-    "timeWeek": 188,
+    "time": 404,
+    "timeDay": 111,
+    "timeWeek": 191,
     "timeMonth": 196,
-    "timeYear": 382,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2023-04-25": 33,
       "2022-11-10": 415
@@ -104,14 +104,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "32.64%",
+    "uptime": "32.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.71%",
+    "uptimeYear": "41.99%",
     "time": 1046,
-    "timeDay": 971,
-    "timeWeek": 931,
+    "timeDay": 1003,
+    "timeWeek": 936,
     "timeMonth": 1424,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -330,8 +330,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   }
 ]
