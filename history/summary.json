@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1204,
-    "timeDay": 95,
-    "timeWeek": 255,
-    "timeMonth": 236,
-    "timeYear": 1013,
+    "time": 1202,
+    "timeDay": 185,
+    "timeWeek": 264,
+    "timeMonth": 239,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -44,10 +44,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1033,
-    "timeDay": 703,
-    "timeWeek": 837,
-    "timeMonth": 814,
+    "time": 1034,
+    "timeDay": 1078,
+    "timeWeek": 916,
+    "timeMonth": 811,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-07-11": 21,
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 849,
-    "timeDay": 537,
-    "timeWeek": 657,
-    "timeMonth": 706,
+    "timeDay": 747,
+    "timeWeek": 656,
+    "timeMonth": 704,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2023-06-27": 17,
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 397,
-    "timeDay": 434,
-    "timeWeek": 241,
-    "timeMonth": 206,
-    "timeYear": 369,
+    "timeDay": 355,
+    "timeWeek": 267,
+    "timeMonth": 205,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2023-04-25": 33,
       "2022-11-10": 415
@@ -104,14 +104,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "35.28%",
+    "uptime": "35.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.92%",
+    "uptimeYear": "47.19%",
     "time": 1032,
-    "timeDay": 725,
-    "timeWeek": 876,
+    "timeDay": 996,
+    "timeWeek": 875,
     "timeMonth": 1385,
     "timeYear": 1032,
     "dailyMinutesDown": {
@@ -311,8 +311,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 1440
+      "2022-11-10": 1440
     }
   }
 ]
