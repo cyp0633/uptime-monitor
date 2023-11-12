@@ -1,7 +1,7 @@
 url: https://warden.cyp0633.icu
-status: up
-code: 200
-responseTime: 402
-lastUpdated: 2023-11-11T23:06:52.495Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2023-11-12T02:16:30.105Z
 startTime: 2022-03-23T11:16:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
