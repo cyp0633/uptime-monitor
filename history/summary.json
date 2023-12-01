@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1151,
-    "timeDay": 306,
-    "timeWeek": 279,
-    "timeMonth": 220,
-    "timeYear": 934,
+    "time": 1149,
+    "timeDay": 377,
+    "timeWeek": 287,
+    "timeMonth": 213,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1013,
-    "timeDay": 794,
-    "timeWeek": 681,
-    "timeMonth": 789,
+    "timeDay": 1012,
+    "timeWeek": 710,
+    "timeMonth": 792,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2023-07-11": 21,
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 542,
-    "timeWeek": 718,
+    "time": 841,
+    "timeDay": 707,
+    "timeWeek": 740,
     "timeMonth": 701,
-    "timeYear": 828,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2023-06-27": 17,
       "2023-05-03": 18
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 550,
-    "timeWeek": 737,
-    "timeMonth": 492,
-    "timeYear": 377,
+    "time": 407,
+    "timeDay": 721,
+    "timeWeek": 762,
+    "timeMonth": 537,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2023-11-12": 25,
       "2023-04-25": 33
@@ -104,14 +104,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "38.09%",
+    "uptime": "38.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.95%",
+    "uptimeYear": "53.22%",
     "time": 1018,
-    "timeDay": 729,
-    "timeWeek": 877,
+    "timeDay": 970,
+    "timeWeek": 910,
     "timeMonth": 896,
     "timeYear": 1018,
     "dailyMinutesDown": {
@@ -289,8 +289,7 @@
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
-      "2022-12-02": 1440,
-      "2022-12-01": 1440
+      "2022-12-02": 1440
     }
   }
 ]
