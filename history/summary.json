@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1057,
-    "timeDay": 125,
-    "timeWeek": 129,
-    "timeMonth": 174,
-    "timeYear": 804,
+    "time": 1055,
+    "timeDay": 39,
+    "timeWeek": 126,
+    "timeMonth": 165,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -29,8 +29,7 @@
       "2023-04-09": 58,
       "2023-04-08": 788,
       "2023-01-25": 21,
-      "2023-01-08": 310,
-      "2023-01-07": 748
+      "2023-01-08": 310
     }
   },
   {
@@ -45,8 +44,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 969,
-    "timeDay": 565,
-    "timeWeek": 731,
+    "timeDay": 709,
+    "timeWeek": 690,
     "timeMonth": 771,
     "timeYear": 930,
     "dailyMinutesDown": {
@@ -67,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 833,
-    "timeDay": 714,
-    "timeWeek": 741,
-    "timeMonth": 752,
+    "time": 832,
+    "timeDay": 540,
+    "timeWeek": 711,
+    "timeMonth": 746,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2023-06-27": 17,
@@ -89,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 732,
-    "timeWeek": 716,
-    "timeMonth": 704,
+    "timeDay": 528,
+    "timeWeek": 675,
+    "timeMonth": 703,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2023-11-12": 25,
@@ -104,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "42.29%",
+    "uptime": "42.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.08%",
-    "time": 1014,
-    "timeDay": 1255,
-    "timeWeek": 986,
+    "uptimeYear": "63.36%",
+    "time": 1012,
+    "timeDay": 728,
+    "timeWeek": 945,
     "timeMonth": 1014,
-    "timeYear": 1014,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2023-06-27": 15,
       "2023-06-19": 237,
@@ -252,8 +251,7 @@
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   }
 ]
