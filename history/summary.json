@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 847,
-    "timeDay": 41,
-    "timeWeek": 163,
-    "timeMonth": 221,
-    "timeYear": 660,
+    "time": 844,
+    "timeDay": 68,
+    "timeWeek": 112,
+    "timeMonth": 216,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-09-13": 58,
       "2023-09-12": 27,
@@ -42,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 950,
-    "timeDay": 721,
-    "timeWeek": 881,
+    "timeDay": 919,
+    "timeWeek": 916,
     "timeMonth": 866,
-    "timeYear": 914,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2023-07-11": 21,
       "2023-06-27": 18,
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 818,
-    "timeDay": 543,
-    "timeWeek": 622,
-    "timeMonth": 709,
+    "timeDay": 762,
+    "timeWeek": 656,
+    "timeMonth": 712,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2023-06-27": 17,
@@ -85,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 439,
-    "timeDay": 531,
-    "timeWeek": 688,
-    "timeMonth": 773,
-    "timeYear": 429,
+    "timeDay": 728,
+    "timeWeek": 692,
+    "timeMonth": 774,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2023-11-12": 25,
       "2023-04-25": 33
@@ -100,14 +100,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "45.87%",
+    "uptime": "45.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.95%",
+    "uptimeYear": "73.22%",
     "time": 994,
-    "timeDay": 713,
-    "timeWeek": 826,
+    "timeDay": 952,
+    "timeWeek": 860,
     "timeMonth": 871,
     "timeYear": 994,
     "dailyMinutesDown": {
@@ -212,8 +212,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
-      "2023-02-13": 1440,
-      "2023-02-12": 1440
+      "2023-02-13": 1440
     }
   }
 ]
