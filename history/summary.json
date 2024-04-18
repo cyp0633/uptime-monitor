@@ -35,10 +35,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.cyp0633.icu.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptime": "99.51%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 936,
     "timeDay": 5873,
@@ -46,7 +46,7 @@
     "timeMonth": 1179,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-04-18": 28,
+      "2024-04-18": 38,
       "2023-07-11": 21,
       "2023-06-27": 18,
       "2023-05-03": 18
@@ -59,9 +59,9 @@
     "slug": "cloudreve",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 861,
     "timeDay": 4920,
@@ -69,7 +69,7 @@
     "timeMonth": 1160,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2024-04-18": 19,
+      "2024-04-18": 29,
       "2023-06-27": 17,
       "2023-05-03": 18
     }
@@ -79,10 +79,10 @@
     "url": "https://warden.cyp0633.icu",
     "icon": "https://icons.duckduckgo.com/ip3/warden.cyp0633.icu.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 517,
@@ -91,6 +91,7 @@
     "timeMonth": 1253,
     "timeYear": 518,
     "dailyMinutesDown": {
+      "2024-04-18": 2,
       "2023-11-12": 25,
       "2023-04-25": 33
     }
@@ -100,9 +101,9 @@
     "url": "https://wiki.rzyzadmissionhelper.top",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "51.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.28%",
@@ -112,6 +113,7 @@
     "timeMonth": 1687,
     "timeYear": 1047,
     "dailyMinutesDown": {
+      "2024-04-18": 0,
       "2023-06-27": 15,
       "2023-06-19": 237,
       "2023-06-18": 572,
