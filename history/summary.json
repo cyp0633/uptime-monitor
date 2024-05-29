@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 537,
-    "timeDay": 158,
-    "timeWeek": 152,
-    "timeMonth": 168,
-    "timeYear": 251,
+    "time": 534,
+    "timeDay": 250,
+    "timeWeek": 158,
+    "timeMonth": 174,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2023-09-13": 58,
       "2023-09-12": 27,
-      "2023-06-12": 39,
-      "2023-05-30": 120
+      "2023-06-12": 39
     }
   },
   {
@@ -35,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 964,
-    "timeDay": 861,
-    "timeWeek": 736,
-    "timeMonth": 785,
+    "timeDay": 1083,
+    "timeWeek": 783,
+    "timeMonth": 783,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2024-04-18": 90,
@@ -57,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 900,
-    "timeDay": 580,
-    "timeWeek": 725,
-    "timeMonth": 738,
+    "timeDay": 955,
+    "timeWeek": 786,
+    "timeMonth": 734,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2024-04-19": 17,
@@ -79,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 538,
-    "timeDay": 546,
-    "timeWeek": 706,
+    "timeDay": 753,
+    "timeWeek": 720,
     "timeMonth": 732,
-    "timeYear": 550,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2024-04-20": 56,
       "2024-04-19": 17,
@@ -96,14 +95,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.rzyzadmissionhelper.top.ico",
     "slug": "rzyz-admission-wiki",
     "status": "up",
-    "uptime": "54.29%",
+    "uptime": "54.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.53%",
     "time": 1030,
-    "timeDay": 748,
-    "timeWeek": 856,
+    "timeDay": 974,
+    "timeWeek": 896,
     "timeMonth": 901,
     "timeYear": 1028,
     "dailyMinutesDown": {
@@ -113,8 +112,7 @@
       "2023-06-27": 15,
       "2023-06-19": 237,
       "2023-06-18": 572,
-      "2023-06-12": 37,
-      "2023-05-30": 120
+      "2023-06-12": 37
     }
   }
 ]
